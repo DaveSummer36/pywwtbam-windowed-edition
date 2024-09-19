@@ -1,0 +1,10 @@
+1|Who won the 2019 F1 Japanese GP?|Valtteri Bottas|Sebastian Vettel|Charles Leclerc|Lewis Hamilton|A|250000
+1|How many races was the most in an F1 year's calendar as of 2023?|21|22|23|24|C|250000
+1|Which of the following teams won the most F1 Constructors' titles?|Williams|McLaren|Mercedes|Wanwall|B|250000
+1|Which of the following drivers hasn't won an F1 Grand Prix?|Jacky Ickx|Chris Amon|René Arnoux|Patrick Tambay|B|250000
+1|Due to what failure did Felipe Massa have to retire 3 laps before the 2008 Hungarian GP finish?|Aerodynamics|Suspension|Electronics|Engine|D|250000
+1|Who won the 2018 Formula 1 United States Grand Prix?|Kimi Räikkönen|Lewis Hamilton|Max Verstappen|Sebastian Vettel|A|250000
+1|In what year was the first ever F1 Grand Prix held?|1949|1950|1951|1952|B|250000
+1|Where did Tony Brooks get his only F1 Grand Prix victory?|Germany|France|Italy|Great Britain|A|250000
+1|When did the first Pacific Grand Prix happen?|in the '80s| in the '90s| in the 2000s| in the '10s|B|250000
+1|How did James Hunt win the 1976 F1 World Champioship title?|Due to Lauda's injury|Due to his appeal of the Italian GP|Due to his last-minute 3rd place at the title decider|Due to the cancellation of the Dutch GP|C|250000
